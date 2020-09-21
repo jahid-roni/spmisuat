@@ -1,0 +1,799 @@
+﻿
+body
+{
+	font-size: 13px;
+	background-color: #FFFFFF;
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+	background-image: url(images/btn_bg.jpg);/*back.png*/
+	background-repeat: repeat-x;
+	color: #000000; /* 555555*/
+	text-transform: capitalize;
+}
+
+.upperCase
+{
+    text-transform: uppercase;
+}
+tr.GridPager * td
+{
+    color: BLUE; 
+    font-weight:bold;
+}
+
+#page
+{
+	width: 970px;
+	margin: 0px;
+	padding: 0px;
+}
+#header
+{
+	clear: both;
+	width: 100%;
+	height: 25px;
+	padding: 0px 0px 5px 0px;
+}
+.ButtonAsh
+{
+	border-left: 1px solid #D2D0D0;
+	border-right: 1px solid #D2D0D0;
+	border-top: 1px solid #D2D0D0;
+	border-bottom: 1px solid #B2B2B3;
+	background: url('../Images/btn_bg.jpg') 0 0;
+	font-weight: bold;
+	padding-left: 2px;
+	padding-right: 2px;
+	color: #5D5F60;
+	font-family: Verdana;
+	font-size: 12px;
+	cursor: hand;
+	white-space: nowrap;
+	-moz-background-clip: border;
+	-moz-background-origin: padding;
+	-moz-background-size: auto auto;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	padding-bottom: 2px;
+	padding-top: 0px;
+    height: 22px;
+}
+
+.ButtonAshInActive
+{
+	border-left: 1px solid #DBD9D9;
+	border-right: 1px solid #DBD9D9;
+	border-top: 1px solid #DBD9D9;
+	border-bottom: 1px solid #B2B2B3;
+	background: url('../Images/btn_bg.jpg') 0 0;
+	font-weight: bold;
+	padding-left: 2px;
+	padding-right: 2px;
+	color: #5D5F60;
+	font-family: Verdana;
+	font-size: 12px;
+	cursor: hand;
+	white-space: nowrap;
+	-moz-background-clip: border;
+	-moz-background-origin: padding;
+	-moz-background-size: auto auto;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	padding-bottom: 2px;
+	padding-top: 0px;
+}
+
+a:hover.ButtonGreen
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #000000;
+	text-decoration: none;
+	margin: 1px;
+	padding: 1px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	text-transform: uppercase;
+}
+.textInput, textArea
+{
+	width: 230px;
+	height: 18px;
+	font-family: Verdana;
+	font-size: 13px;
+	padding-left: 2px;
+	background-color: #FFFFFF;
+	border: 1px solid #CDCECF;
+	text-transform: uppercase;
+}
+.textInputDisabled, textAreaDisabled
+{
+	width: 230px;
+	font-weight: bold;
+	text-align: right;
+	height: 18px;
+	font-family: Verdana;
+	font-size: 13px;
+	padding-left: 2px;
+	background-color: #E9EEFC;
+	border: 1px solid #CDCECF;
+	text-transform: uppercase;	
+}
+.textInputDisabledForTxt
+{	
+	font-weight: bold;
+	text-align: left;
+	height: 18px;
+	font-family: Verdana;
+	font-size: 13px;
+	padding-left: 2px;
+	background-color: #E9EEFC;
+	border: 1px solid #CDCECF;	
+}
+.inputHighlighted
+{
+	width: 230px;
+	height: 18px;
+	font-family: Verdana;
+	font-size: 13px;
+	padding-left: 2px;
+	background-color: #F9FDEE;
+	border: 1px solid #000;
+	text-transform: uppercase;
+}
+fieldset
+{
+	font-size: 13px;
+	border: 1px solid #D2D0D0;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+legend
+{
+	background: url(../Images/btn_bg.jpg);
+	border: #D2D0D0 solid 1px;
+	border-bottom-color: #B2B2B3;
+	font-weight: bold;
+	color: #5D5F60;
+	font-family: Verdana;
+	font-size: 12px;
+	cursor: hand;
+	white-space: nowrap;
+	-moz-background-clip: border;
+	-moz-background-origin: padding;
+	-moz-background-size: auto auto;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	background-position: 0 0;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.PageCaptionLeft
+{
+	font-family: Tahoma;
+	font-size: 14px;
+	text-align: right;
+	font-weight: bold;
+	color: #003267;
+}
+.PageCaptionRight
+{
+	font-family: Tahoma;
+	font-size: 14px;
+	text-align: left;
+	font-weight: bold;
+	color: #003267;
+	padding-bottom: 3px;
+}
+
+.errorBox
+{
+	color: #DC030D;
+	padding-left: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+}
+
+.errorBigBox
+{
+	color: #DC030D;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight:bold;
+	line-height: 30px;
+	text-transform:none;
+	padding-left: 15px;
+}
+
+.errorFieldset
+{
+	border: 1px solid RED;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+.errorLegend
+{
+	background: url(../Images/btn_bg.jpg);
+	border: 1px solid RED;
+	border-bottom-color: RED;
+	font-weight: bold;
+	color: RED;
+	font-family: Verdana;
+	font-size: 12px;
+	cursor: hand;
+	white-space: nowrap;
+	-moz-background-clip: border;
+	-moz-background-origin: padding;
+	-moz-background-size: auto auto;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	background-position: 0 0;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.errorInputHighlightedError
+{
+	width: 230px;
+	height: 18px;
+	font-family: Verdana;
+	font-size: 13px;
+	padding-left: 2px;
+	background-color: #FDF1F1;
+	border: 1px solid RED;
+	text-transform: uppercase;
+}
+.errorIcon
+{
+	text-align: left;
+	float: left;
+	padding-left: 5px;
+	font-size: 20px;
+	color: RED;
+}
+.errorTextRight
+{
+	text-align: left;
+	float: left;
+	padding-left: 5px;
+	font-size: 14px;
+}
+
+.SuccessFieldset
+{
+	border: 1px solid GREEN;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+}
+.SuccessLegend
+{
+	background: url(../Images/btn_bg.jpg);
+	border: 1px solid GREEN;
+	border-bottom-color: GREEN;
+	font-weight: bold;
+	color: GREEN;
+	font-family: Verdana;
+	font-size: 12px;
+	cursor: hand;
+	white-space: nowrap;
+	-moz-background-clip: border;
+	-moz-background-origin: padding;
+	-moz-background-size: auto auto;
+	-moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+	background-position: 0 0;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.SuccessBox
+{
+	color: Green;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-left: 15px;
+	font-size: 25px;
+	font-weight:bold;
+}
+
+.fieldLeft
+{
+	float: left;
+}
+.topHeader
+{
+    background-image: url(../Images/topHeader.jpg);
+    background-repeat: repeat;
+    font-family: Tahoma;
+    font-size: 14px;
+    font-weight: bold;
+    color: #003267;
+}
+.rootHeader
+{
+	background-image: url(../Images/rootHeader.jpg);
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #003267;
+    background-repeat: no-repeat;	
+    background-size: 100% 100%;
+}
+.topHeader a:hover
+{
+	padding: 0px 0px 0px 0px;
+	font-family: Tahoma;
+	font-size: 14px;
+	text-align: right;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.LinkText
+{
+	color: Navy;
+	text-decoration: none;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.LinkText:hover
+{
+	color: #003267;
+	text-decoration: none;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.LinkTextWhite
+{
+	color: RED;
+	text-decoration: underLine;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.LinkTextWhite:hover
+{
+	color: YELLOW;
+	text-decoration: underLine;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.topLeft
+{
+	padding: 3px 3px 0px 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	float: left;
+}
+.topRight
+{
+	padding: 6px 15px 0px 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	float: right;
+}
+
+#header h1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: Black;
+	padding: 10px 0px 0px 150px;
+	text-align: center;
+	text-transform: uppercase;
+}
+#logoLeft
+{
+	margin: 0px;
+}
+#sidebar
+{
+	float: left;
+	width: 160px;
+}
+#mainarea
+{
+	width: 900px;
+	clear: both;
+	padding-left: 1px;
+}
+#contentarea
+{
+	width: 935px;
+	float: left;
+	padding-left: 5px;
+}
+
+#footer
+{
+	width: 900px;
+	clear: both;
+	height: 50px;
+	padding-top: 35px;
+	text-align: center;
+	line-height: 14pt;
+	background-image: url(images/footer.png);
+	background-repeat: no-repeat;
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+}
+#footer a
+{
+	color: #FFFFFF;
+}
+h2
+{
+	font-size: 15pt;
+	color: #333333;
+	padding-top: 6px;
+}
+.description
+{
+	font-size: 14pt;
+	color: #FFFFFF;
+	margin: 0;
+}
+a
+{
+	color: #003267;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #003267;
+	text-decoration: none;
+}
+
+/**Left panel CSS**/
+
+.cnn_sbhttopiccntr .cnn_divline
+{
+	clear: both;
+	margin: 0px;
+}
+.cnn_sbhttopicl
+{
+	float: left;
+	display: block;
+	border-bottom: dotted 1px #00679C;
+}
+.cnn_sbhttopicl span
+{
+	font: bold 12px/15px arial, Helvetica, Utkal, sans-serif;
+	color: #003267;
+}
+
+/************ SiteMap bread crumb************/
+.siteMapPath
+{
+	font-family: Tahoma;
+	font-size: 13px;
+}
+.currentNodeStyle
+{
+	font-weight: bold;
+	outline: none;
+	color: #003267;
+}
+.nodeStyle
+{
+	text-decoration: none;
+	color: #888;
+	outline: none;
+}
+.pathSeparatorStyle
+{
+	margin: 3px;
+}
+.rootNodeStyle
+{
+	text-decoration: none;
+	color: #888;
+}
+/************ SiteMap bread crumb************/
+.rpcom_box_error
+{
+	margin: 0px 10px 1px 10px;
+	padding: 5px 5px 5px 5px;
+	border: #DAD8D8 solid 1px;
+	background: #F9F9F9;
+	color: #DC030D;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.com_title
+{
+	padding: 5px 0px 0px 15px;
+	color: RED;
+	font-weight: bold;
+	font-family: Verdana;
+	font-size: 9pt;
+	width: 200px;
+	height: 24px;
+	background-repeat: no-repeat;
+	margin: 0px 10px 0px 10px;
+}
+
+
+/***** POPUP *******************************************************************************/
+.MDClass
+{
+	position: absolute;
+	display: none;
+	background-color: #ffffff;
+	border: 1px solid #c8d5fb;
+	z-index: 50;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	background: #FFFFFF;
+	border: #cccccc solid 3px;
+}
+.MDHeader
+{
+	background: url(../Images/btn_bg.jpg);
+	border: #D2D0D0 solid 1px;
+	font-family: Trebuchet MS, Arial;
+	font-size: 11px;
+	color: #DB767E;
+	font-weight: bold;
+	border-bottom: #F0C8CB solid 1px;
+	border-left: none;
+	border-right: none;
+	width: 602px;
+	height: 20px;
+}
+.MDTitle
+{
+	float: left;
+	padding-top: 3px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+}
+.MDClose
+{
+	font-family: arial, "times New Roman";
+	font-size: 13px;
+	color: #AC7B20;
+	font-weight: bold;
+	text-decoration: none;
+	float: right;
+	padding-top: 2px;
+	padding-left: 5px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	border: "FF6633 solid 1px";
+}
+.MDBody
+{
+	background: #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: normal;
+	font-family: Arial;
+	font-size: 9pt;
+}
+/***** POPUP *******************************************************************************/
+
+/* new ASP.Net menu stylesheet*/
+.container
+{
+	background: #fff url(../Images/menu/three_0.gif) repeat-x;
+	position: relative;
+	height: 27px;
+}
+#logo
+{
+	float: left;
+	background: #CCCCCC;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	margin: 0;
+}
+.primaryStaticMenu
+{
+	background-color: transparent;
+	float: right;
+	cursor: pointer;
+}
+.primaryStaticMenuItem
+{
+	font-size: 10pt;
+	font-weight: bold;
+	width: 8.3em;
+	border-width: 0px;
+	border-style: solid;
+	color: #283B56;
+	padding: 0.5em 0.2em 0.5em 0.2em;
+	cursor: pointer;
+}
+.primaryStaticHover
+{
+	color: #283B56;
+	background: #fff url(../Images/menu/three_11.gif) repeat-x;
+	position: relative;
+	cursor: pointer;
+}
+.primaryDynamicMenu
+{
+	background: #FFF;
+	padding: 3px 3px 0px 3px;
+	border: 1px solid #A3C0E8;
+	white-space: nowrap;
+}
+.primaryDynamicMenuItem
+{
+	background-color: #f7f2ea;
+	color: #777;
+	padding: 4px 2px 2px 2px;
+	border-width: 1px;
+	border-style: solid;
+	background: #FFFFFF;
+	color: #283B56;
+	border-color: #FFFFFF;
+}
+.primaryDynamicMenuItem:hover
+{
+	background-color: #f7f2ea;
+	color: #777;
+	padding: 4px 2px 2px 2px;
+	border-width: 1px;
+	border-style: solid;
+	background: #FFE7A2;
+	color: #283B56;
+	border-color: #FFBD69;
+}
+.primaryDynamicHover
+{
+	background: #FFE7A2;
+	color: #283B56;
+	border-color: #FFBD69;
+}
+.secondaryLevelOne
+{
+	background-color: transparent;
+	background-repeat: repeat-x;
+	margin: 1.5em 0 0 0;
+	padding: 5px 0 0 5px;
+	width: 12em;
+	height: 35px;
+}
+.secondaryLevelTwo
+{
+	background: #FAFBFB;
+	padding: 5px 0 5px 5px;
+}
+.secondaryStaticHover
+{
+	background: #FFE7A2;
+	color: #283B56;
+	border-color: #FFBD69;
+}
+
+/* new ASP.Net menu stylesheet*/
+
+/* Tab ****************************/
+.tabberlive .tabbertabhide
+{
+	display: none;
+}
+.tabber
+{
+}
+.tabberlive
+{
+	margin-top: 1em;
+}
+ul.tabbernav
+{
+	margin: 0;
+	padding: 3px 0;
+	border-bottom: 1px solid #5D5F60;
+	font: bold 12px Verdana, sans-serif;
+}
+ul.tabbernav li
+{
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+ul.tabbernav li a
+{
+	padding: 3px 0.5em;
+	margin-left: 3px;
+	border: 1px solid #5D5F60;
+	border-bottom: none;
+	background: #E3E0E0;
+	text-decoration: none;
+}
+ul.tabbernav li a:link
+{
+	color: #5D5F60;
+}
+ul.tabbernav li a:visited
+{
+	color: #667;
+}
+ul.tabbernav li a:hover
+{
+	color: #000000;
+	background: #AEABAB;
+	border-color: #606162;
+}
+ul.tabbernav li.tabberactive a
+{
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;
+}
+ul.tabbernav li.tabberactive a:hover
+{
+	color: #000000;
+	background: white;
+	border-bottom: 1px solid white;
+}
+.tabberlive .tabbertab
+{
+	padding: 5px;
+	border: 1px solid #aaa;
+	border-top: 0;
+}
+.tabberlive .tabbertab h2
+{
+	display: none;
+}
+.tabberlive .tabbertab h3
+{
+	display: none;
+}
+.tabberlive#tab1
+{
+}
+.tabberlive#tab2
+{
+}
+.tabberlive#tab2 .tabbertab
+{
+	height: 200px;
+	overflow: auto;
+}
+
+/* Tab *********************************/
+
+.checkboxlist_nowrap tr td label
+{
+	white-space: nowrap;
+	overflow: hidden;
+}
+/* Added by Istiak on behalf of Zahid on 09/09/2012 */
+textInputLeftDisabled, textAreaLeftDisabled
+{
+	width: 230px;
+	font-weight: bold;
+	text-align: left;
+	height: 18px;
+	font-family: Verdana;
+	font-size: 13px;
+	padding-left: 2px;
+	background-color: #E9EEFC;
+	border: 1px solid #CDCECF;
+	text-transform: uppercase;
+}

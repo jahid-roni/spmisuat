@@ -1,0 +1,165 @@
+D:\Users\Example\SPMS\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\Users\Example\SPMS\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\Users\Example\SPMS\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Example\SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\Users\Example\SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\Projects\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\Projects\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\User\Istiak\Project\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\User\Istiak\Project\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\User\Istiak\Project\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\User\Istiak\Project\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll.licenses
+D:\User\Istiak\Project\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\User\Istiak\Project\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Business.dll
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+D:\Projects\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+D:\Projects\SPMS\SPMS_Web\bin\SCB.DM.pdb
+D:\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\SPMS\SPMS_Web\bin\SPMS_Business.dll
+D:\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+D:\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+D:\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+D:\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+D:\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Project\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Business.dll
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+D:\Project\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+D:\Project\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\Project\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Project\SPMS\SPMS_Web\bin\SCB.DM.pdb
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Web.dll
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Business.dll
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SCB.DM.pdb
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+C:\Data\SPMS\SPMS\SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+F:\Files\Release_SPMS\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Files\Release_SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+F:\Files\Release_SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Web.dll
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business.dll
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SCB.DM.pdb
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.pdb
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.xml
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Web.dll
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Business.dll
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.pdb
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.xml
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SCB.DM.pdb
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+E:\Projects\SPMS_WEB\SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.dll
+F:\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.dll
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Web.dll
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business.dll
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.dll
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.pdb
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Reports_VB.xml
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SCB.DM.pdb
+F:\Files\10.156.0.152\Files\Release_SPMS\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Business.dll
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Reports_VB.dll
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Reports_VB.pdb
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Reports_VB.xml
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SCB.DM.pdb
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\Software Development\SPMS\Source\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Web.dll
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Web.pdb
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Business.dll
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Business_VB.dll
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Reports_VB.dll
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Reports_VB.pdb
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Reports_VB.xml
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Business_VB.pdb
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Business_VB.xml
+D:\Webapps\SPMS\SPMS_Web\bin\SCB.DM.pdb
+D:\Webapps\SPMS\SPMS_Web\bin\SPMS_Business.pdb
+D:\Webapps\SPMS\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Webapps\SPMS\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\Webapps\SPMS\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\obj\Debug\SPMS_Web.dll
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\obj\Debug\SPMS_Web.pdb
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Web.dll
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Web.pdb
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business.dll
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business_VB.dll
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Reports_VB.dll
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Reports_VB.pdb
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Reports_VB.xml
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business_VB.pdb
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business_VB.xml
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SCB.DM.pdb
+D:\Software Development\SLZZ\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business.pdb
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Web.dll
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Web.pdb
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business.dll
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business_VB.dll
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Reports_VB.dll
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Reports_VB.pdb
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Reports_VB.xml
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business_VB.pdb
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business_VB.xml
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SCB.DM.pdb
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\bin\SPMS_Business.pdb
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\obj\Debug\ResolveAssemblyReference.cache
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\obj\Debug\SPMS_Web.dll
+H:\File_Transfar\SBMWEB\SBMWEB\SPMS_Web\obj\Debug\SPMS_Web.pdb
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\obj\Debug\SPMS_Web.csprojResolveAssemblyReference.cache
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\obj\Debug\SPMS_Web.dll
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\obj\Debug\SPMS_Web.pdb
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SPMS_Web.dll
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SPMS_Web.pdb
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SPMS_Business_VB.dll
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SPMS_Reports_VB.dll
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SPMS_Business_VB.pdb
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SPMS_Business_VB.xml
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SBM.DM.dll
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SBM.DM.pdb
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SBM_BLC1.dll
+H:\File_Transfar\SBMWEB\SBMWEB_FW4\SPMS_Web\bin\SBM_BLC1.pdb

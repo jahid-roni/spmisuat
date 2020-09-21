@@ -1,0 +1,598 @@
+/*
+div, span,
+applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dd, dl, dt, li, ol, ul,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td
+*/
+html, body {
+	margin: 0px auto;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	line-height: 1;
+	font-family: inherit;
+	font-family: Tahoma, Verdana, Arial;
+	/*font-size: 12px;*/
+}
+
+a img, :link img, :visited img {
+	border: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	text-align:left;
+}
+ol, ul {
+	list-style: none;
+}
+
+.TopSection {
+	text-align:center;
+}
+.TopLink 
+{
+	color:#FFFFFF;
+	}
+.MenuBar {
+	color:#FFFFFF;
+	font-size:12px;
+}
+#MainDiv #MidSection .LeftSection {
+	padding-left: 0px;
+}
+.SearchTbl {
+	
+}
+.Heading {
+	font-size:16px;
+}
+.FontColor1 {
+	font-weight:bold;
+	color:#24A5E9;
+}
+.FontColor2 {
+	font-weight:bold;
+	color:#E96823;
+}
+.FontBold {
+	font-weight:bold;
+}
+.PadingLeftSection {
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.PadingSearchSection {
+	padding-top:15px;
+	padding-left:15px;
+	padding-bottom:0px;
+}
+/*
+a:link {
+	
+	color:White;
+	text-decoration:none;
+}
+a:visited {
+	
+	color:White;
+	text-decoration:none;
+	}
+a:alink {
+	color:White;
+	text-decoration:none;
+}
+
+a:hover {
+	color:Black;
+	text-decoration:none;
+}
+*/
+.copyRight {
+font-size:11px;
+}
+
+.InnerPageConten {
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:10px;
+	padding-bottom:20px;
+	}
+.ErrorMsg {
+color:#FF0000;
+}
+.InputTxt 
+{
+	font-size:11px;
+	border:solid 1px #666666;
+	background-color:#f2f2f2;
+}
+
+.btnSubmit 
+{
+	color:#ffffff;
+	border:0px;
+	width:76px;
+	height:21px;
+	background-image: url("/Images/SubmitBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnCancel 
+{
+	color:#ffffff;
+	border:0px;
+	width:76px;
+	height:21px;
+	background-image: url("/Images/CancelBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnEdit 
+{
+	color:#ffffff;
+	border:0px;
+	width:55px;
+	height:21px;
+	background-image: url("/Images/EditBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnLogin 
+{
+	color:#ffffff;
+	border:0px;
+	width:67px;
+	height:21px;
+	background-image: url("/Images/LoginBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnLogoutEmp 
+{
+	color:#ffffff;
+	border:0px;
+	width:84px;
+	height:21px;
+	background-image: url("/Images/LogoutBtn.jpg");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+	
+.btnUpdate 
+{
+	color:#ffffff;
+	border:0px;
+	width:76px;
+	height:21px;
+	background-image: url("/Images/UpdateBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnCrate 
+{
+	color:#ffffff;
+	border:0px;
+	width:80px;
+	height:21px;
+	background-image: url("/Images/Creatbtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnok
+{
+	color:#ffffff;
+	border:0px;
+	width:50px;
+	height:21px;
+	background-image: url("/Images/okbtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnChangePass
+{
+	color:#ffffff;
+	border:0px;
+	width:135px;
+	height:21px;
+	background-image: url("/Images/ChangePassword.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+
+.btnAddNew
+{
+	color:#ffffff;
+	border:0px;
+	width:85px;
+	height:21px;
+	background-image: url("/Images/AddNewBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnSkip
+{
+	color:#ffffff;
+	border:0px;
+	width:55px;
+	height:21px;
+	background-image: url("/Images/SkipBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnSave
+{
+	color:#ffffff;
+	border:0px;
+	width:85px;
+	height:21px;
+	background-image: url("/Images/Savebtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnValidate 
+{
+	color:#ffffff;
+	border:0px;
+	width:100px;
+	height:21px;
+	background-image: url("/Images/validateBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnMainPage 
+{
+	color:#ffffff;
+	border:0px;
+	width:90px;
+	height:21px;
+	background-image: url("/Images/MainpageBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+.btnAddMore 
+{
+	color:#ffffff;
+	border:0px;
+	width:90px;
+	height:21px;
+	background-image: url("/Images/AddMoreBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+.btnBack
+{
+	color:#ffffff;
+	border:0px;
+	width:90px;
+	height:21px;
+	background-image: url("/Images/BackBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+	
+.btnShow
+{
+	color:#ffffff;
+	border:0px;
+	width:78px;
+	height:21px;
+	background-image: url("/Images/ShowBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+
+.btnDetails
+{
+	color:#ffffff;
+	border:0px;
+	width:78px;
+	height:22px;
+	background-image: url("/Images/DetailsBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+	
+.SendEmailBtn
+	{
+	color:#ffffff;
+	border:0px;
+	width:97px;
+	height:21px;
+	background-image: url("/Images/SendEmailBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnDelete
+	{
+	color:#ffffff;
+	border:0px;
+	width:80px;
+	height:21px;
+	background-image: url("/Images/DeleteBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnSend
+	{
+	color:#ffffff;
+	border:0px;
+	width:80px;
+	height:21px;
+	background-image: url("/Images/SendBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+/* ============================= Seeker ================================== */
+.btnAddLang {
+	color:#ffffff;
+	border:0px;
+	width:120px;
+	height:21px;
+	background-image: url("/Images/AddLang.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+}
+
+.btnLoginSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:100px;
+	height:21px;
+	background-image: url("/Images/loginSKBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+.btnLogOutSk 
+{
+	color:#ffffff;
+	border:0px;
+	width:65px;
+	height:21px;
+	background-image: url("/Images/LogoutBtn.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+	
+.btnSubmitSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:84px;
+	height:21px;
+	background-image: url("/Images/SubmitBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnAddNewSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:83px;
+	height:21px;
+	background-image: url("/Images/AddnewBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+	
+.btnUpdateSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:84px;
+	height:21px;
+	background-image: url("/Images/UpdateBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+	
+.btnSaveSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:69px;
+	height:21px;
+	background-image: url("/Images/SaveBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+	
+.btnCancellSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:71px;
+	height:21px;
+	background-image: url("/Images/CancelBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}
+
+.btnSearchBtnSk
+{
+	color:#ffffff;
+	border:0px;
+	width:71px;
+	height:21px;
+	background-image: url("/Images/SearchBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}		
+				
+
+.btnChangePassSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:135px;
+	height:21px;
+	background-image: url("/Images/ChangepassBtnSk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}	
+	
+.btnContiSK 
+{
+	color:#ffffff;
+	border:0px;
+	width:82px;
+	height:21px;
+	background-image: url("/Images/ContinueBtnCk.gif");
+	background-repeat:no-repeat;
+	cursor:pointer;
+	}		
+		
+
+/* ======================= Grid View Style ============================= */
+.GridViewMain{
+	border:1px;
+	border-color:#CCCCCC;
+}
+.GridViewHader
+{
+	font-size:12px;
+	color:#FFFFFF;
+	background-color:#e96823;
+	height:22px;
+	}
+.GridViewItems 
+{
+	border:1px;
+	font-size:12px;
+	color:#000000;
+	height:24px;
+	padding:2px;
+	}
+.altRow {
+	background-color:#efefef;
+	height:24px;
+	border:1px;
+	}
+.GridViewFooter
+{
+	font-size:12px;
+	color:#FFFFFF;
+	background-color:#eea681;
+	height:22px;
+	}
+.GridViewHaderSeeker 
+{
+	border:1px;
+	font-size:12px;
+	color:#FFFFFF;
+	background-color:#24A5E9;
+	height:22px;
+	}
+/* ================================ End Grid View style =================== */
+
+.EmpHeader {
+	background-color:#FDF0EA;
+	font-size:14px;
+	font-weight:bold;
+	color:#E96823;
+	}
+.SeekHeader {
+	background-color:#def0fa;
+	font-size:14px;
+	font-weight:bold;
+	color:#24A5E9;
+	height:25px;
+	}
+.SeekHeaderS {
+	background-color:#def0fa;
+	font-size:12px;
+	font-weight:bold;
+	color:#24A5E9;
+	height:21px;
+	}
+.SeekLine {
+	background-color:#def0fa;
+	}
+	
+	
+	
+.FldLabel1
+{
+	PADDING-LEFT: 3px; 
+	BACKGROUND-COLOR: #F9F9F9;
+	width:125px;
+	color: #40407C; 
+	font-family: Tahoma; 
+	font-size: 12; 
+	border: 1px solid #A9C8EB;
+	 
+	Height:20px
+}
+
+
+.FldLabel5
+{
+	color: #000066 ;
+	font-size: 10pt ;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #ffffff;
+	width:90%
+}
+
+.FldLabel2
+{	
+	BACKGROUND-COLOR: #ffffff;
+	width:100%;
+	color: Black; 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14; 
+}
+
+.MasterBottom
+{
+	background-image:url('../images/bottom_bg-33.jpg')
+}
+
+.MasterHeader
+{
+	background-image:url('../images/header.jpg');
+	background-repeat:no-repeat;
+	
+}
+
+.Repeat
+{
+	
+	background-repeat:no-repeat;
+	
+}
+
+/*CollapsiblePanel*/
+.collapsePanel {
+	
+	background-color:white;
+	overflow:hidden;
+}
+
+.collapsePanelHeader{
+	width:100%;
+	height:30px;
+	background-image: url(images/bg-menu-main.png);
+	background-repeat:repeat-x;
+	color:#FFF;
+	font-weight:bold;
+}
+
+#master_content .collapsePanelHeader a {color:#FFF;}
+#master_content .collapsePanelHeader a:hover {text-decoration:none;background:none;}

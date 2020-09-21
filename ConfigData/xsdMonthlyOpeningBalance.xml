@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NewDataSet>
+	<xsdMonthlyOpeningBalance>
+		<SPType>DIB</SPType>
+		<Key>MOB</Key>
+		<Desc>Monthly Opening Balance</Desc>
+		<Value>241</Value>
+		<Amount>28950</Amount>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<SPType>DPB</SPType>
+		<Key>MOB</Key>
+		<Desc>Monthly Opening Balance</Desc>
+		<Value>214</Value>
+		<Amount>28950</Amount>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<SPType></SPType>
+		<Key>DOI</Key>
+		<Desc>Date of Install</Desc>
+		<Value>25-Jun-2005</Value>
+		<Amount>0</Amount>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>PID</Key>
+		<Desc>Product ID</Desc>
+		<Value>001</Value>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>CCM</Key>
+		<Desc>Cost Center Master</Desc>
+		<Value>6183298</Value>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>TCC</Key>
+		<Desc>Transaction Code Clearing</Desc>
+		<Value>C</Value>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>TCT</Key>
+		<Desc>Transaction Code Transafer</Desc>
+		<Value>T</Value>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>BLOC</Key>
+		<Desc>Backup Location</Desc>
+		<Value>\\samsad\Common\seb\</Value>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>ITD</Key>
+		<Desc>Income Tax Effect Date</Desc>
+		<Value>01-Jan-2004</Value>
+	</xsdMonthlyOpeningBalance>
+	<xsdMonthlyOpeningBalance>
+		<Key>IEM</Key>
+		<Desc>Income Tax Effect on Maturity Date</Desc>
+		<Value>01-Jul-2007</Value>
+	</xsdMonthlyOpeningBalance>
+</NewDataSet>

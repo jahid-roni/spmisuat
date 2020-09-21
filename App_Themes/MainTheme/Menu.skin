@@ -1,0 +1,49 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:Menu SkinID="LeftMenu" runat="server" BackColor="DimGray" DynamicHorizontalOffset="2"
+                            Font-Names="Tahoma" Font-Size="12px" ForeColor="White" StaticSubMenuIndent="10px"
+                            Width="100%" Font-Bold="True"  Font-Overline="False">
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" BackColor="DimGray" Font-Names="Tahoma" Font-Size="12px" ForeColor="White" />
+                            <DynamicHoverStyle BackColor="Maroon" ForeColor="White" Font-Names="Tahoma" Font-Size="12px" />
+                            <DynamicMenuStyle BackColor="DimGray" />
+                            <StaticSelectedStyle BackColor="Maroon" ForeColor="White" Font-Names="Tahoma" Font-Size="12px" />
+                            <DynamicSelectedStyle BackColor="Maroon" Font-Names="Tahoma" Font-Size="12px" ForeColor="White" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" BackColor="DimGray" Font-Names="Tahoma" Font-Size="12px" />
+                            <StaticHoverStyle BackColor="White" ForeColor="DimGray" Font-Bold="True" Font-Names="Tahoma"
+                                Font-Size="12px" />
+                            <StaticMenuStyle BackColor="DimGray" />
+                        </asp:Menu>
+                        
+                        
+                        
+                        <asp:Menu SkinID="mnueTop" runat="server"  Font-Bold="True"
+                                            Font-Names="Tahoma" Font-Size="12px" ForeColor="White" Orientation="Horizontal" DynamicVerticalOffset="10" ItemWrap="True" MaximumDynamicDisplayLevels="5" StaticSubMenuIndent="10px">
+                                            <DynamicHoverStyle BackColor="White" Font-Bold="True" Font-Names="Tahoma" Font-Size="12px"
+                                                ForeColor="#F14849" />
+                                            <DynamicMenuStyle BackColor="#F14849" />
+                                            <DynamicMenuItemStyle BackColor="#F14849" Font-Bold="True" Font-Names="Tahoma" Font-Size="12px"
+                                                ForeColor="White" VerticalPadding="2px" />
+ 
+                                       </asp:Menu>
+                                       
+                                       
+  <asp:Menu SkinID="MainMenuVertical" Runat="server" BackColor="#FFFFFF" ForeColor="#0B4892" Width="100%" BorderColor="#B2D0DF" BorderStyle="Solid"  BorderWidth="1px" Font-Names="Tahoma,Arial, Sans-serif" Font-Bold="true"  StaticBottomSeparatorImageUrl="~/images/bottom_separator.gif" DynamicEnableDefaultPopOutImage="false" StaticEnableDefaultPopOutImage="false" StaticPopOutImageUrl="~/images/bullet.png" DynamicPopOutImageUrl="~/images/bullet.png">
+    <StaticMenuItemStyle Height="23px" HorizontalPadding="5px" />
+    <StaticHoverStyle ForeColor="#FF7700" />
+    <DynamicMenuItemStyle Height="25px" BorderColor="#B2D0DF" BorderStyle="Solid" BorderWidth="1px" HorizontalPadding="10px" />
+    <DynamicHoverStyle ForeColor="#FF7700" /> 
+</asp:Menu>   

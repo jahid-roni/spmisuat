@@ -1,0 +1,63 @@
+﻿
+<asp:GridView SkinID="SBMLGridV2" runat="server" ForeColor="Black" ShowFooter="False" CellPadding="1" 
+    BackColor="#E9F0D5" BorderWidth="0px" BorderStyle="solid" BorderColor="#C1D586" >
+    <HeaderStyle  Font-Size="12px" Font-Bold="false" Wrap="false" ForeColor="Black" BackColor="#D1D3CF" />                 
+    <RowStyle CssClass="upperCase" BackColor="#E5E7E3" ForeColor="Black" Font-Bold="false" Font-Size="12px" Font-Names="Tahoma" />
+    <FooterStyle CssClass="upperCase" Font-Bold="true" Wrap="false" ForeColor="White" BackColor="#333333"  />  
+    <PagerStyle CssClass="GridPager" BackColor="#e1e1e1" HorizontalAlign="right" Font-Size="15px" />
+    <AlternatingRowStyle CssClass="upperCase" Font-Bold="false" Wrap="False" ForeColor="black" BackColor="#EAEEE6" ></AlternatingRowStyle>
+</asp:GridView>
+
+<asp:GridView SkinID="SBMLGridGreen" runat="server" ForeColor="Black" ShowFooter="False" CellPadding="5" 
+    BackColor="#E9F0D5" BorderWidth="1px" BorderStyle="solid" BorderColor="#C1D586" >
+    <HeaderStyle  Font-Size="12px" Font-Bold="false" Wrap="false" ForeColor="Black" BackColor="#D1D3CF" />                 
+    <RowStyle CssClass="upperCase" BackColor="#E5E7E3" ForeColor="Black" Font-Bold="false" Font-Size="12px" Font-Names="Tahoma" />
+    <FooterStyle CssClass="upperCase" Font-Bold="true" Wrap="false" ForeColor="White" BackColor="#333333"  />  
+    <PagerStyle CssClass="GridPager" BackColor="#e1e1e1" HorizontalAlign="right" Font-Size="15px" />
+    <AlternatingRowStyle CssClass="upperCase" Font-Bold="false" Wrap="False" ForeColor="black" BackColor="#EAEEE6" ></AlternatingRowStyle>
+</asp:GridView>
+
+<asp:GridView SkinID="SBMLGridGray" runat="server" ForeColor="Black" ShowFooter="False" width="100%" CellPadding="0"  CellSpacing="0" 
+    BackColor="#FFFFFF" BorderWidth="1px" BorderStyle="solid" BorderColor="#D2D2D2">
+    <HeaderStyle cssClass="table-header-repeat" Font-Names="Tahoma" height="35px" Font-Bold="true" Font-Size="14px" Wrap="false" ForeColor="#EFEBEB" BackColor="#777676" />                 
+    <RowStyle height="30" BackColor="#FFFFFF" ForeColor="Black" Font-Bold="false" Font-Size="13px" Font-Names="Tahoma" />
+    <AlternatingRowStyle  height="30" Font-Bold="false" Wrap="False" ForeColor="black" BackColor="#ECECEC"></AlternatingRowStyle>
+    <FooterStyle Font-Bold="true" Wrap="false" ForeColor="White" BackColor="#333333" />  
+    <PagerStyle BackColor="#e1e1e1" ForeColor="black" HorizontalAlign="Center" />
+</asp:GridView>
+
+<asp:GridView SkinID="SBMLGridGraySmall" runat="server" ForeColor="Black" ShowFooter="False" width="100%" CellPadding="0"  CellSpacing="0" 
+    BackColor="#FFFFFF" BorderWidth="1px" BorderStyle="solid" BorderColor="#D2D2D2">
+    <HeaderStyle cssClass="table-header-repeat" Font-Names="Tahoma" height="18px" Font-Bold="true" Font-Size="10px" Wrap="false" ForeColor="#EFEBEB" BackColor="#777676" />                 
+    <RowStyle height="15" BackColor="#FFFFFF" ForeColor="Black" Font-Bold="false" Font-Size="9px" Font-Names="Tahoma" />
+    <AlternatingRowStyle  height="15" Font-Bold="false" Wrap="False" ForeColor="black" BackColor="#ECECEC"></AlternatingRowStyle>
+    <FooterStyle Font-Bold="true" Wrap="false" ForeColor="White" BackColor="#333333" />  
+    <PagerStyle BackColor="#e1e1e1" ForeColor="black" HorizontalAlign="Center" />
+</asp:GridView>
+
+
+<asp:DropDownList runat="server" SkinID="ddlSmall"  BackColor="#ffffff"  width="142px" height="25px" ForeColor="#000000" Font-Bold="false" Font-Size="13px" Font-Names="Verdana" BorderColor="#ABB2BC" BorderStyle="solid" BorderWidth="1px"></asp:DropDownList>
+<asp:DropDownList runat="server" SkinID="ddlMedium" BackColor="#ffffff"  width="164px" height="25px" ForeColor="#000000" Font-Bold="false" Font-Size="13px" Font-Names="Verdana" BorderColor="#ABB2BC" BorderStyle="solid" BorderWidth="1px"></asp:DropDownList>
+<asp:DropDownList runat="server" SkinID="ddlLarge" BackColor="#ffffff"  width="200px" height="25px" ForeColor="#000000" Font-Bold="false" Font-Size="13px" Font-Names="Verdana" BorderColor="#ABB2BC" BorderStyle="solid" BorderWidth="1px"></asp:DropDownList>
+<asp:DropDownList runat="server" SkinID="ddlCommon" BackColor="#ffffff"  height="25px" ForeColor="#000000" Font-Bold="false" Font-Size="13px" Font-Names="Verdana" BorderColor="#ABB2BC" BorderStyle="solid" BorderWidth="1px"></asp:DropDownList>
+
+<asp:CheckBoxList   
+     SkinID="SBMCheckListGreen"  runat="server" 
+     BackColor="#E5E7E3"
+     BorderWidth="2px"
+     BorderStyle="solid" 
+     BorderColor="#D2D0D0"
+     Font-Bold="false"  
+     Font-Size="12px" 
+     Wrap="false" 
+     ForeColor="black"
+     Font-Names="Tahoma"
+     Font-Underline="false"      
+    >
+</asp:CheckBoxList>
+
+<Asp:Label SkinID="lblError"  ForeColor="RED"   runat="server" Font-Names="Tahoma" Font-Bold="true" Font-Size="15px" Wrap="false"  ></Asp:Label> 
+<Asp:Label SkinID="lblSuccess" ForeColor="BLUE"  runat="server" Font-Names="Tahoma" Font-Bold="true" Font-Size="15px" Wrap="false" ></Asp:Label> 
+<Asp:Label SkinID="lblInfo"     ForeColor="YELLOW"  runat="server" Font-Names="Tahoma" Font-Bold="true" Font-Size="15px" Wrap="false" ></Asp:Label> 
+
+<Asp:Label runat="server" Wrap="false" overflow = "hidden"></Asp:Label> 

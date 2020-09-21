@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ConfigMapping>
+  <ReportFormatMapping>
+    <ReportType>SS</ReportType>
+    <FormatID>1</FormatID>
+    <FormatName>BB Short Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>SS</ReportType>
+    <FormatID>2</FormatID>
+    <FormatName>BB Mid Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>SS</ReportType>
+    <FormatID>3</FormatID>
+    <FormatName>BB Long Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>CC</ReportType>
+    <FormatID>1</FormatID>
+    <FormatName>BB Short Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>CC</ReportType>
+    <FormatID>2</FormatID>
+    <FormatName>BB Mid Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>CC</ReportType>
+    <FormatID>3</FormatID>
+    <FormatName>BB Long Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>IC</ReportType>
+    <FormatID>1</FormatID>
+    <FormatName>BB Short Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>IC</ReportType>
+    <FormatID>2</FormatID>
+    <FormatName>BB Mid Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>IC</ReportType>
+    <FormatID>3</FormatID>
+    <FormatName>BB Long Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>EC</ReportType>
+    <FormatID>1</FormatID>
+    <FormatName>BB Short Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>EC</ReportType>
+    <FormatID>2</FormatID>
+    <FormatName>BB Mid Format</FormatName>
+  </ReportFormatMapping>
+  <ReportFormatMapping>
+    <ReportType>EC</ReportType>
+    <FormatID>3</FormatID>
+    <FormatName>BB Long Format</FormatName>
+  </ReportFormatMapping>
+
+  <ScriptFormatMapping>
+    <ReportType>SP</ReportType>
+    <FormatID>1</FormatID>
+    <FormatName>SP Large Size Format</FormatName>
+  </ScriptFormatMapping>
+  <ScriptFormatMapping>
+      <ReportType>SP</ReportType>
+    <FormatID>2</FormatID>
+    <FormatName>SP Small Size Format</FormatName>
+  </ScriptFormatMapping>
+  <ScriptFormatMapping>
+    <ReportType>SP</ReportType>
+    <FormatID>3</FormatID>
+    <FormatName>Dollar Bond Format</FormatName>
+  </ScriptFormatMapping>
+
+    <ScriptFormatMapping>
+        <ReportType>SP</ReportType>
+        <FormatID>4</FormatID>
+        <FormatName>WDB Format</FormatName>
+    </ScriptFormatMapping>
+    <ScriptFormatMapping>
+        <ReportType>SP</ReportType>
+        <FormatID>5</FormatID>
+        <FormatName>SP Medium Size Format</FormatName>
+    </ScriptFormatMapping>
+    <ScriptFormatMapping>
+        <ReportType>SP</ReportType>
+        <FormatID>6</FormatID>
+        <FormatName>SP Medium 6.5 X 8.25</FormatName>
+    </ScriptFormatMapping>
+    <ScriptFormatMapping>
+        <ReportType>SP</ReportType>
+        <FormatID>7</FormatID>
+        <FormatName>3MS 200K Medium 6.5 X 8.25</FormatName>
+    </ScriptFormatMapping>
+
+  
+
+  <ApplicableSex>
+    <Type>Sex</Type>
+    <FormatID>1</FormatID>
+    <FormatName>Male</FormatName>
+  </ApplicableSex>
+  <ApplicableSex>
+    <Type>Sex</Type>
+    <FormatID>2</FormatID>
+    <FormatName>Female</FormatName>
+  </ApplicableSex>
+  <ApplicableSex>
+    <Type>Sex</Type>
+    <FormatID>3</FormatID>
+    <FormatName>All</FormatName>
+  </ApplicableSex>
+
+
+  <Country>
+    <Type>Country</Type>
+    <FormatID>01</FormatID>
+    <FormatName>Bangladesh</FormatName>
+  </Country>
+
+
+
+
+  <Month>
+    <Type>Month</Type>
+    <FormatID>1</FormatID>
+    <FormatName>January</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>2</FormatID>
+    <FormatName>February</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>3</FormatID>
+    <FormatName>March</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>4</FormatID>
+    <FormatName>April</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>5</FormatID>
+    <FormatName>May</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>6</FormatID>
+    <FormatName>June</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>7</FormatID>
+    <FormatName>July</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>8</FormatID>
+    <FormatName>August</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>9</FormatID>
+    <FormatName>September</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>10</FormatID>
+    <FormatName>October</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>11</FormatID>
+    <FormatName>November</FormatName>
+  </Month>
+  <Month>
+    <Type>Month</Type>
+    <FormatID>12</FormatID>
+    <FormatName>December</FormatName>
+  </Month>
+  
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>7</FormatID>
+    <FormatName>Date Range</FormatName>
+  </DateDuration>
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>1</FormatID>
+    <FormatName>Daily</FormatName>
+  </DateDuration>
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>2</FormatID>
+    <FormatName>Weekly</FormatName>
+  </DateDuration>
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>3</FormatID>
+    <FormatName>Monthly</FormatName>
+  </DateDuration>
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>4</FormatID>
+    <FormatName>Quarterly</FormatName>
+  </DateDuration>
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>5</FormatID>
+    <FormatName>Half Yearly</FormatName>
+  </DateDuration>
+  <DateDuration>
+    <Type>Duration</Type>
+    <FormatID>6</FormatID>
+    <FormatName>Yearly</FormatName>
+  </DateDuration>
+
+    <JournalAccount>
+        <Type>JournalAccount</Type>
+        <FormatID>0961834840200</FormatID>
+        <FormatName>0961834840200</FormatName>
+    </JournalAccount>
+    <JournalAccount>
+        <Type>JournalAccount</Type>
+        <FormatID>0961834841701</FormatID>
+        <FormatName>0961834841701</FormatName>
+    </JournalAccount>
+    <JournalAccount>
+        <Type>JournalAccount</Type>
+        <FormatID>0961834841801</FormatID>
+        <FormatName>0961834841801</FormatName>
+    </JournalAccount>
+    <JournalAccount>
+        <Type>JournalAccount</Type>
+        <FormatID>0961834840100</FormatID>
+        <FormatName>0961834840100</FormatName>
+    </JournalAccount>
+
+    <JournalStatus>
+        <Type>JournalStatus</Type>
+        <FormatID>Reconciled</FormatID>
+        <FormatName>Reconciled</FormatName>
+    </JournalStatus>
+    <JournalStatus>
+        <Type>JournalStatus</Type>
+        <FormatID>Unreconciled</FormatID>
+        <FormatName>Unreconciled</FormatName>
+    </JournalStatus>
+
+</ConfigMapping>

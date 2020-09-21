@@ -1,0 +1,29 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:ImageButton SkinID="btnSubmin" runat="server" ImageUrl="~/images/SubmitBtnSk.gif" />
+<asp:ImageButton SkinID="btnAddNew" runat="server" ImageUrl="~/images/AddnewBtnSk.gif" />
+<asp:ImageButton SkinID="btnContinue" runat="server" ImageUrl="~/images/ContinueBtnCk.gif" />
+<asp:ImageButton SkinID="btnLogin" runat="server" ImageUrl="~/images/LoginBtnSk.gif" />
+<asp:ImageButton SkinID="btnLogout" runat="server" ImageUrl="~/images/LogoutBtn.gif" />
+<asp:ImageButton SkinID="btnSave" runat="server" ImageUrl="~/images/SaveBtnSk.gif" />
+<asp:ImageButton SkinID="btnSaveD" runat="server" ImageUrl="~/images/dSaveBtnSkD.gif" />
+<asp:ImageButton SkinID="btnSearch" runat="server" ImageUrl="~/images/SearchBtnSk.gif" />
+<asp:ImageButton SkinID="btnUpdate" runat="server" ImageUrl="~/images/UpdateBtnSk.gif" />
+<asp:ImageButton SkinID="btnAdvSearch" runat="server" ImageUrl="~/images/AdvSearch.gif" />
+<asp:ImageButton SkinID="btnDelete" runat="server" ImageUrl="~/images/CancelBtnSk.gif" />
+<asp:ImageButton SkinID="btnDeleteD" runat="server" ImageUrl="~/images/CancelBtnSkD.gif" />
+

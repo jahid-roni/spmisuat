@@ -1,0 +1,379 @@
+﻿
+fieldset
+{
+    border: 1px solid #D2D0D0; 
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 5px;
+    /*border-radius: 5px;*/
+}
+
+.rpcom_box_error
+{
+	margin: 0px 10px 1px 10px;	padding: 5px 5px 5px 5px;	border: #DAD8D8 solid 1px;	background: #F9F9F9;
+	color: #DC030D;	font-family:Verdana, Arial, Helvetica, sans-serif;    font-size:11px;
+}
+
+.com_title
+{
+	padding:5px 0px 0px 15px; color :RED; font-weight : bold;	font-family: Verdana;	font-size: 9pt;
+    width:200px;    height:24px;    background-repeat:no-repeat;    margin: 0px 10px 0px 10px;
+}
+
+legend  
+{   
+    background: url(../Images/btn_bg.jpg);	border: #D2D0D0 solid 1px;	
+	border-bottom-color:#B2B2B3;	font-weight: bold;	
+	color: #5D5F60; 	
+	font-family: Verdana;	font-size: 12px;	
+	cursor: hand;	white-space:nowrap;	
+	-moz-background-clip:border;    -moz-background-origin:padding;    
+	-moz-background-size:auto auto;    
+	-moz-box-shadow:0 1px 0 rgba(0, 0, 0, 0.1);    background-position:0 0;    
+	
+	padding-bottom:2px;    
+	padding-top:2px;
+	padding-left:10px;	
+	padding-right:10px;
+} 
+
+
+
+div.row {
+  clear: both;
+  padding-top: 5px;
+  }
+
+ .label
+ {
+ 	text-align: right;
+	font-weight:bold;
+ }
+ 
+ table.tblClass
+ {
+     font-size: 12px;
+     font-family: Verdana, Helvetica, sans-serif;
+ }
+
+ 
+div.row span.labelLeft {
+  float: left;
+  width: 140px;
+  text-align: right;
+  /*font-weight:bold;*/
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 12px;
+  }
+  div.row span.labelRightSmall {
+	float: left;
+	width: 180px;
+	text-align: right;
+	padding-left:10px;
+	font-weight:bold;
+  }
+   div.row span.labelRight {
+	float: left;
+	width: 180px;
+	text-align: right;
+	padding-left:30px;
+	/*font-weight:bold;*/
+	font-family: Verdana, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+.textInput,textArea {
+      width: 230px;
+      height:18px;
+      font-family:Verdana;
+      font-size:13px;
+      padding-left:2px;
+      background-color: #FFFFFF;
+      border: 1px solid #CDCECF;
+    }
+    
+div.row span.valueField {
+    float: left;
+    text-align: left;
+    padding-left:5px;
+  
+    width: 200px;
+    font-family:Verdana, Helvetica, sans-serif;
+    font-size:12px;
+    border-color: #CDCECF;
+  } 
+  div.row span.checkvalueField {
+    float: left;
+    text-align: left;
+    padding-left:5px;
+    width: 200px;
+    font-family:Verdana, Helvetica, sans-serif;
+    font-size:12px;
+    
+  } 
+  
+  div.row span.fullRow {
+  float: left;
+  width: 530px;
+  text-align: left;
+  padding-left:5px;
+  } 
+  
+  div.row span.fullRow input {
+  float: left;
+  width: 530px;
+  text-align: left;
+  
+  } 
+  
+  /* added by Istiak on 06.07.2010 */
+  div.row span.valueFieldChkBox {
+  float: left;  
+  }
+  
+  div.row span.gridField {
+  float: left;
+  width: auto;
+  text-align: left;
+   padding-left:5px;
+  } 
+  
+  /*make all text box and combo same size*/
+  div.row span.valueField input,select {
+
+  width: 160px;
+  text-align: left;
+  } 
+  
+  .formWidth
+  {
+  	width:100%;
+  }
+ 
+  
+  .ButtonGreen {
+	/*
+	border-left: 1px solid #006736;
+	border-right: 1px solid #004222;
+	border-top: 1px solid #86B59F;
+	border-bottom: 1px solid #004222;
+	padding: 1px 5px;
+	font-family: Arial, Helvetica, sans-serif;
+		font-size: 10px;
+		font-weight: bold;
+		color: #FFFFFF;
+		background-color: #4EB305;
+		text-decoration: none;
+		text-transform: uppercase;
+	
+		margin-top: 1px;
+		margin-bottom: 1px;
+	height: 20px;
+	*/
+	background: url(../Images/btn_bg.jpg);	border: #D2D0D0 solid 1px;	
+	border-bottom-color:#B2B2B3;	font-weight: bold;	padding-left:2px;	
+	padding-right:2px;	color: #5D5F60; 	
+	font-family: Verdana;	font-size: 12px;	
+	cursor: hand;	height: 24px;	white-space:nowrap;	
+	-moz-background-clip:border;    -moz-background-origin:padding;    
+	-moz-background-size:auto auto;    
+	-moz-box-shadow:0 1px 0 rgba(0, 0, 0, 0.1);    background-position:0 0;    
+	padding-bottom:2px;    padding-top:0px;
+}
+
+a:hover.ButtonGreen {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #000000;
+	text-decoration: none;
+	margin: 1px;
+	padding: 1px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	text-transform: uppercase;
+}
+
+input,select,textarea
+{
+	border: 1px solid gray;
+}
+
+.inputHighlighted {
+  width: 230px;
+  height:18px;
+  font-family:Verdana;
+  font-size:13px;
+  padding-left:2px;
+  background-color: #F9FDEE;
+  border: 1px solid #000;
+}
+.inputHighlightedError {
+  width: 230px;
+  height:18px;
+  font-family:Verdana;
+  font-size:13px;
+  padding-left:2px;
+  background-color: #FDF1F1;
+  border: 1px solid RED;
+}
+
+   /* added by Istiak on 07.07.2010 */
+  .modalBackground
+  {
+	 background-color:Gray;
+	 cursor: move;             
+    /* filter:alpha(opacity=70);
+     opacity:0.7; */
+  }
+    
+  .modalStyle
+  {	 
+  	 background-color: #95BE7D; 
+  	 margin-top: 50px; 
+  	 border:solid 2px green ;
+  	 overflow: auto;
+  	 width:800px; height:500px;
+  	 margin-bottom: 90px;
+  /* scrollbar-arrow-color: blue; 
+  	 scrollbar-face-color: #e7e7e7; 
+  	 scrollbar-3dlight-color: #a0a0a0; 
+  	 scrollbar-darkshadow-color: #888888; */
+  } 
+  
+  /* added by Istiak on 08.07.2010 */
+  fieldset
+  {
+	margin-top: 10px;
+  }
+    
+  .rightAlign
+  {
+  	text-align:right;
+  } 
+  
+   .centerAlign
+  {
+  	text-align:center;
+  } 
+  
+  .flRight
+  {
+  	float:right;
+  }
+  
+  .flLeft
+  {
+  	float:left;
+  }
+  
+  .Message
+  {
+  	background-color:#EFAE00;
+  	color:Black;
+  	font-weight:bold;
+  	width:200px;
+  	text-align:center;
+  }
+  
+  .paddingLeft
+  {
+  	padding-left:100px;
+  }
+  
+  /***************   GridView themeing style**************/
+
+.searchContainer
+{
+	background:#EBF3CE;
+
+	
+}
+
+.searchContainer legend
+{
+	font-weight:bold;
+	color: Green;
+	
+}
+
+/*
+Grid view style
+*/
+
+table {
+ font-size: 95%;
+ font-family: 'Lucida Grande', Helvetica, verdana, sans-serif;
+ background-color:#fff;
+ border-collapse: collapse;
+ /* width: 100%; */
+ line-height: 1.2em;
+}
+caption {
+ font-size: 30px;
+ font-weight: bold;
+ color: #002084;
+ text-align: left;
+ padding: 10px 0px;
+ margin-bottom: 2px;
+ text-transform: capitalize;
+}
+tr th {
+ border-right: 2px solid #fff;
+ color:#fff;
+ text-align:center;
+ padding:2px;
+ 
+ height:15px;
+
+  background-color: #004080;
+}
+
+ th {
+ text-align:left;
+ padding: 2px;
+}
+ td a, tbody th a {
+ color:#002084;
+ text-decoration:underline;
+ font-weight:normal; 
+}
+ td a:hover, tbody th a:hover {
+ text-decoration:none;
+}
+
+ td  {
+	/*padding: 5px 10px;*/
+	text-align:left;
+	background: #fff;
+	color: #000;
+	/*border: 1px solid gray;*/
+}
+ th {
+	color: #047;
+	font-weight: normal;
+	font-variant: normal;
+	font-size: 1em;
+}
+
+ tr.odd {
+	border: 1px solid #87CEFA;
+}
+ tr.odd td,  tr.odd th {
+	background: #F0F8FF;
+}
+
+.disableTextBox
+{
+	background-color:Gray;
+}

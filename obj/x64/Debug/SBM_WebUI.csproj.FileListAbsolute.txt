@@ -1,0 +1,15 @@
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\obj\x64\Debug\SBM_WebUI.csprojResolveAssemblyReference.cache
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_WebUI.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_WebUI.pdb
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\CrystalDecisions.Enterprise.Framework.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\CrystalDecisions.Enterprise.InfoStore.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM.DM.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_BLC1.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_BLV1.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SPMS_Reports_VB.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM.DM.pdb
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_BLC1.pdb
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_BLV1.pdb
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\bin\SBM_BLV1.xml
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\obj\x64\Debug\SBM_WebUI.dll
+F:\WEB_APPS\SBMWEB_FW4\SBM_WebUI\obj\x64\Debug\SBM_WebUI.pdb
